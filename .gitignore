@@ -1,2 +1,6 @@
+# directories
 _project_starter
+img
+
+# files
 .pre-commit-config.yaml
