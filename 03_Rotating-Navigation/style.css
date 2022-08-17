@@ -38,6 +38,11 @@ body {
     transition: transform 0.5s linear;
 }
 
+/* when container has .show-nav, we will style .circle */
+.container.show-nav .circle {
+    transform: rotate(-70deg);
+}
+
 .container.show-nav .circle {
     transform: rotate(-70deg);
 }
